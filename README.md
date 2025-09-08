@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Khual</h1>
-<h3 align="left">I love to make the internet a safe place</h3>
+<!-- <h3 align="left">I love to make the internet a safe place</h3> -->
 
 🔭 I’m currently working on **Database Management System**
 
